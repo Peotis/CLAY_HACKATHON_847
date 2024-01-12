@@ -16,3 +16,9 @@ Library used:
   4. Numpy
   5. Requests
   6. Pillow
+
+## Cara menggunakan bot :
+  1. pilih sampah
+  2. sambungkan foto sampah tersebut di dalam discord
+  3. gunakan command $check di discord untuk di check
+  4. penggunan bot hanya bisa bekerja di sampah-sampah
